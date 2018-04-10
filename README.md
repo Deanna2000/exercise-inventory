@@ -1,0 +1,1 @@
+Exercise to create a database of unique or cool items in my home, their location,and why they are special. By the end of this practice exercise, I will be able to store a JSON database in the local storage of your browser so that it can be retrieved, and modified again, at any time in the future.
